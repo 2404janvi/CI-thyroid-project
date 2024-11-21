@@ -1,1 +1,1 @@
-# CI-thyroid-project
+# Thyroid-Disease-Detection
